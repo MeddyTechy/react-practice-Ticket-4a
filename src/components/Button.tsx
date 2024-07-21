@@ -13,5 +13,5 @@ const Button = ({ children, onClick, color = "primary" }: Props) => {
     </button>
   );
 };
-
+// comment
 export default Button;
